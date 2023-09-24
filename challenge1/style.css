@@ -1,0 +1,27 @@
+
+  
+
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+body{
+    background-color: rgb(39, 1, 74);
+    text-align: center;
+    color: white;
+}
+
+.card{
+    
+    box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.505);
+    border-radius: 20px;
+}
+
+.text{
+    size: 600px;
+    font-family: 'Great Vibes', cursive;
+}
+
+.des{
+    size: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
